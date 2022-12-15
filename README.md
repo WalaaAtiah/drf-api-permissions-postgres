@@ -91,4 +91,4 @@
 `python manage.py test` 
 
 
-## [pull requests](https://github.com/WalaaAtiah/drf-api/pull/1)
+## [pull requests](https://github.com/WalaaAtiah/drf-api-permissions-postgres/pull/1)
